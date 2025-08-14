@@ -28,7 +28,7 @@ QA_PROMPT = PromptTemplate(
     input_variables=["question", "context"]
 )
 
-# ===================== NEW PROMPTS =====================
+
 
 KEY_INSIGHTS_PROMPT = PromptTemplate(
     template=(
